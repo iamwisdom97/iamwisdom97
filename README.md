@@ -10,6 +10,7 @@
 ![spring boot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-2496ED?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![intellij](https://img.shields.io/badge/IntelliJ-DD1265?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 <br/>
