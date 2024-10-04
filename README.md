@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwisdom97&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) 
 
-##  :clipboard: Tech Stack :clipboard:                       
+##  :clipboard: Tech Stack :clipboard:                        
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
